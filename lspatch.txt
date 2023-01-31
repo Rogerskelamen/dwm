@@ -3,7 +3,8 @@ systray     -- for application deamon icon display
 fullscreen  -- fullscreen one window
 dwmc        -- allow us change dwm source code and take effect immediately
 tatami      -- another layout
-vanity gaps -- like i3-gaps, but dwm
+vanitygaps  -- like i3-gaps, but dwm
 noborder    -- do not show border
+viewontag   -- only display tag that has windows
 hide-vacant-tags -- hide any tag as you wish
 status2d    -- allows colors and rectangle drawing in your DWM status bar
