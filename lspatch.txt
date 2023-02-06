@@ -1,10 +1,12 @@
 autostart   -- auto execute some scripts or applications once dwm start
 systray     -- for application deamon icon display
+alpha       -- make transparent for status bar
+awesomebar  -- shows all tasks in the current tag in the taskbar at all times
 fullscreen  -- fullscreen one window
-dwmc        -- allow us change dwm source code and take effect immediately
 tatami      -- another layout
 vanitygaps  -- like i3-gaps, but dwm
 noborder    -- do not show border
-viewontag   -- only display tag that has windows
-hide-vacant-tags -- hide any tag as you wish
+viewontag   -- follow a window to the tag it is being moved to
+hide-vacant-tags -- hide any tag if it has no window
 status2d    -- allows colors and rectangle drawing in your DWM status bar
+dwmc        -- allow us change dwm source code and take effect immediately
