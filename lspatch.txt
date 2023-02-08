@@ -1,3 +1,6 @@
+If you want to add new features to dwm, you can use some patches in [dwm official website](https://dwm.suckless.org/patches/). Every patches I used are stored in the fold `/patches`
+
+There is something useful:
 autostart   -- auto execute some scripts or applications once dwm start
 vanitygaps  -- like i3-gaps, but dwm
 fullscreen  -- fullscreen one window
@@ -9,6 +12,7 @@ status2d    -- allows colors and rectangle drawing in your DWM status bar
 tatami      -- another layout
 dwmc        -- allow us change dwm source code and take effect immediately
 
-These two conflict with each other:
+These two patches conflicts with each other:
 systray     -- for application deamon icon display
 alpha       -- make transparent for status bar
+If you have to patch them both, use [this patch in github](https://github.com/bakkeby/patches/blob/master/dwm/dwm-alpha-systray-6.3_full.diff)
