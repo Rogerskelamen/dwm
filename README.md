@@ -59,6 +59,7 @@ There is something useful:
 - viewontag   -- follow a window to the tag it is being moved to
 - hide-vacant-tags -- hide any tag if it has no window
 - awesomebar  -- shows all tasks in the current tag in the taskbar at all times
+- scratchpad  -- open a mini terminal anywhere to do short typing
 - status2d    -- allows colors and rectangle drawing in your DWM status bar
 - tatami      -- another layout
 - dwmc        -- allow us change dwm source code and take effect immediately
