@@ -57,6 +57,7 @@ There is something useful:
 - fullscreen  -- fullscreen one window
 - noborder    -- do not show border
 - viewontag   -- follow a window to the tag it is being moved to
+- pertag      -- keep layout, mwfact, barpos and nmaster per tag
 - hide-vacant-tags -- hide any tag if it has no window
 - awesomebar  -- shows all tasks in the current tag in the taskbar at all times
 - scratchpad  -- open a mini terminal anywhere to do short typing
