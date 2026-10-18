@@ -1752,7 +1752,7 @@ run(void)
 
 void
 runAutostart(void) {
-	system("cd ~/Scripts; ./autostart.sh &");
+	system("cd ~/Documents/scripts; ./autostart.sh &");
 }
 
 void
